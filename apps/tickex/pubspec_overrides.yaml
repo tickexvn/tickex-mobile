@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: tickex_ui
+dependency_overrides:
+  tickex_ui:
+    path: ../../packages/tickex_ui
